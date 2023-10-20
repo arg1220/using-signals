@@ -1,2 +1,4 @@
-res://ToggleMotion/Godot.gd
 res://toggle_motion.tscn
+res://CustomSignal.tscn
+res://CustomSignal/Player.gd
+res://CustomSignal/LifeBar.gd
